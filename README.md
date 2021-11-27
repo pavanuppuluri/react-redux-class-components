@@ -12,6 +12,7 @@ React features used in this repo are -
 
 **Note**
 This repo is similar to https://github.com/pavanuppuluri/react-redux-functional-components.
+
 Only difference is in this we are using class components.
 
 Happy Coding!!!
