@@ -11,7 +11,7 @@ React features used in this repo are -
 - connect as we can't use hooks
 
 **Note**
-This repo is similar to https://github.com/pavanuppuluri/react-redux-functional-components.
+This repo is similar to https://github.com/pavanuppuluri/react-redux-functional-components
 
 Only difference is in this we are using class components.
 
